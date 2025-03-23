@@ -16,12 +16,6 @@ ssh guestbook@whisp.fyi
 ssh dinorun@whisp.fyi
 ```
 
-**Sunrise/sunset**
-[See the code](https://github.com/WhispPHP/whisp/blob/main/examples/daylight.php)
-```bash
-ssh daylight@whisp.fyi
-```
-
 **Find your closest World Heritage Sites**
 ```bash
 ssh elec@whisp.fyi
