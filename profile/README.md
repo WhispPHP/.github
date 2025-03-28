@@ -1,6 +1,6 @@
-# Whisp - Pure PHP SSH Server
+# Whisp - Pure* PHP SSH Server
 
-An SSH server written in pure PHP for the best way to build SSH based TUIs.
+An SSH server written in pure* PHP for the best way to build SSH based TUIs.
 
 
 # Live Examples
