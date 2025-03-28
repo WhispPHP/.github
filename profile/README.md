@@ -2,6 +2,8 @@
 
 An SSH server written in pure* PHP for the best way to build SSH based TUIs.
 
+⇾ [Take a look at the docs](https://whispphp.com)
+
 
 # Live Examples
 **Sign the Whisp Guestbook**
